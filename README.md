@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🌱 I'm Stella. Recent graduate with professional experience in data analysis and a proven track record of working with analytics tools, such as R, Microsoft Excel, and PowerBI. Experienced in data visualisation and statistical analysis. Passionate about using data analysis insights to drive business decisions and improve processes.
+## 🌱 I'm Stella. Early career analyst with a Master's in Business Analytics and professional experience in data analysis. Proven track record of working with analytics tools such as Microsoft Excel, R, and PowerBI. Passionate about using data analysis insights to drive business decisions and improve processes. Seeking to maintain a full-time position that offers professional challenges.
 
 
 <!--
